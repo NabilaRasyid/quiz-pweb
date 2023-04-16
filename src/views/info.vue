@@ -1,7 +1,7 @@
 <template>
   <div class="informasi">
     <div class="gambarDiri">
-      <img src="src/assets/nabila.png" class="img-thumbnail" alt="...">
+      <img src="src/assets/bela.png" class="img-thumbnail" alt="...">
       <p class="info"> This Is Me </p>
     </div>
 
