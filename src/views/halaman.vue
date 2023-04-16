@@ -1,9 +1,8 @@
 <template>
+  <div class = "paket">
   <h1> Welcome!  </h1>
-  <h2> Get to Know Me More </h2>
-  <p> Nama: Nabila Al Rasyid </p>
-  <p> Religion: Islam </p>
-  <p> Gender: Female </p>
+  <h2> Nabila Al Rasyid are Here! </h2>
+  </div>
 </template>
 
 <script>
@@ -15,20 +14,16 @@ export default {
 </script>
 
 <style>
+.paket {
+  background-color: lightgray;
+  font-family: "Lucida Bright";
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 220px;
+}
 
 h1 {
-  text-align: center;
-  padding-top: 50px;
-  padding-bottom: 30px;
-}
-
-h2 {
-  text-align: center;
-  padding-bottom: 30px;
-}
-
-p {
-  padding-top: 30px;
+  padding-bottom: 50px;
 }
 
 </style>
