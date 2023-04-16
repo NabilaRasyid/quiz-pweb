@@ -1,10 +1,5 @@
 <template>
   <h4> Portofolio </h4>
-
-  <div class="portofolio1">
-    <img src="src/assets/porto.png">
-  </div>
-
   <div class="link">
   <a href="https://tirastimes.com/pucuk-kata-puisi-nabila-al-rasyid-menyerah/2021/01/31/"> Check This Page </a>
   </div>
@@ -22,17 +17,9 @@ export default {
 
 <style>
 h4 {
-padding-top: 100px;
+padding-top: 130px;
   font-family: "Lucida Bright";
   text-align: center;
-}
-
-.portofolio1 {
-  padding-top: 20px;
-  padding-left: 30px;
-  padding-right: 30px;
-  font-family: "Lucida Bright";
-  width: 50px;
 }
 
 .link {
@@ -43,6 +30,7 @@ padding-top: 100px;
 
 p {
   padding-left: 50px;
+  padding-right: 50px;
   padding-top: 20px;
   text-align: justify;
 }
