@@ -52,7 +52,7 @@ h4 {
 }
 
 p {
-  word-spacing: 3px;
+  word-spacing: 2px;
   font-size: 20px;
   padding-top: 10px;
 }
