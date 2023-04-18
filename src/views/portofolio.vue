@@ -1,7 +1,7 @@
 <template>
   <div class="porto">
   <h4> Portofolio </h4>
-    <img src="src/assets/porto.png" class="rounded mx-auto d-block" alt="...">
+    <img src="../assets/porto.png" class="rounded mx-auto d-block" alt="...">
   <div class="link">
   <a href="https://tirastimes.com/pucuk-kata-puisi-nabila-al-rasyid-menyerah/2021/01/31/"> Check This Page </a>
   </div>
@@ -12,7 +12,7 @@
   <div class="achievements">
     <h5> Achievements </h5>
     <div class="gambarPenghargaan">
-    <img src="src/assets/penghargaan.jpg" class="img-thumbnail" alt="...">
+    <img src="../assets/penghargaan.jpg" class="img-thumbnail" alt="...">
     </div>
     <p> Wise man said experience is the best way for learning. Those word influence my mindset since school time. My goal from school was do many things. It ended up my school memories. </p>
   </div>
