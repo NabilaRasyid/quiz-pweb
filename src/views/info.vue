@@ -1,6 +1,10 @@
 <template>
+  <div class="gambarDiri">
+    <img src="../assets/bela.png" class="img-thumbnail" alt="...">
+    <h5> This Is Me </h5>
+  </div>
+
   <div class="data">
-      <h4> This Is Me </h4>
     <p> Name: Nabila Al Rasyid </p>
   <p> Religion: Islam </p>
   <p> Gender: Female </p>
@@ -19,6 +23,22 @@ export default {
 </script>
 
 <style>
+.gambarDiri {
+  padding-top: 100px;
+  width: 350px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h5 {
+  text-align: center;
+  font-family: "Lucida Bright";
+  padding-top: 10px;
+  background-color: lightgray;
+  padding-bottom: 20px;
+}
+
 .data {
   background-color: lightgray;
   font-family: "Lucida Bright";
